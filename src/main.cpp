@@ -6,8 +6,8 @@
 
 
 // Replace with your network credentials
-const char *ssid = "B1Digital";
-const char *password = "merhabaB1";
+const char *ssid = "ssid";
+const char *password = "password";
 
 bool relay1 = false;
 bool relay2 = false;
